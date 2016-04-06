@@ -10,12 +10,12 @@ A collection view demo, it's a horizontal collection view and the cells in this 
 在这个Demo里做了处理使得排列变为以下效果  
  0 | 1 | 2 | 3  
  4 | 5 | 6 | 7  
-同时，各个Cell都可以直接拖拽排序  
-
-效果图
----
-![demo](https://raw.githubusercontent.com/FlyKite/DragableHorizontalCollectionView/master/demo.gif)
+同时，各个Cell都可以直接拖拽排序
 
 协议
 ---
 遵循MIT开源协议
+
+效果图
+---
+![demo](https://raw.githubusercontent.com/FlyKite/DragableHorizontalCollectionView/master/demo.gif)
