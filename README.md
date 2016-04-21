@@ -19,7 +19,7 @@ There are too much bugs in this demo, it is just for reference.
 
 协议|License
 ---
-遵循MIT开源协议
+遵循MIT开源协议  
 Open source under the MIT License.
 
 效果图|Example
