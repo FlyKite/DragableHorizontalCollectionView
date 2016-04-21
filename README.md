@@ -6,7 +6,7 @@ A collection view demo, it's a horizontal collection view and the cells in this 
 该Demo存在各种Bug，仅供参考，请勿直接使用  
 There are too much bugs in this demo, it is just for reference.
 
-简介
+简介|Desctiption
 ---
 这是一个横向排列（从左向右，从上到下）的CollectionView  
 如果直接设置CollectionView的滚动方向为横向则是以下效果  
@@ -17,10 +17,11 @@ There are too much bugs in this demo, it is just for reference.
  4 | 5 | 6 | 7  
 同时，各个Cell都可以直接拖拽排序
 
-协议
+协议|License
 ---
 遵循MIT开源协议
+Open source under the MIT License.
 
-效果图
+效果图|Example
 ---
 ![demo](https://raw.githubusercontent.com/FlyKite/DragableHorizontalCollectionView/master/demo.gif)
