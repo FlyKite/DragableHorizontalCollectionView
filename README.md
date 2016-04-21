@@ -3,7 +3,7 @@ A collection view demo, it's a horizontal collection view and the cells in this 
 
 注意|Warning
 ---
-该Demo存在各种Bug，仅供参考，请勿直接使用
+该Demo存在各种Bug，仅供参考，请勿直接使用  
 There are too much bugs in this demo, it is just for reference.
 
 简介
